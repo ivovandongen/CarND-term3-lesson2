@@ -6,4 +6,5 @@ Part of Udacity's [Self Driving Car nanodegree](https://udacity.com/course/self-
 - [Lesson 2.12: Expansion List](lesson2.12.py)
 - [Lesson 2.13: Print Path](lesson2.13.py)
 - [Lesson 2.15: A*](lesson2.15.py)
+- [Lesson 2.20: Value Program (Dynamic Programming)](lesson2.20.py)
 
